@@ -1,1 +1,6 @@
-Write a function greet that takes a name and returns "Hello, [name]! Welcome to your Python journey."
+#1. Write a function greet that takes a name and returns "Hello, [name]!"
+
+def greet(name):
+    return f"Hello, {name}!"
+
+#2. 
